@@ -9,7 +9,7 @@ using LucySky.Models;
 namespace LucySky.Controllers
 {
     public class HomeController : Controller
-    {   /// Hello World
+    {   /// Hello World by matěj
         public IActionResult Index()
         {
             return View();
