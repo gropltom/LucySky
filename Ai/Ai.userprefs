@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{9F7644F8-F7D5-4111-B744-A15A961B44E0}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="LucySky/Startup.cs">
+    <Files>
+      <File FileName="LucySky/Views/Home/Index.cshtml" Line="1" Column="1" />
+      <File FileName="Ai Status" />
+      <File FileName="LucySky/appsettings.json" Line="1" Column="1" />
+      <File FileName="LucySky/appsettings.Development.json" Line="1" Column="1" />
+      <File FileName="LucySky/bower.json" Line="1" Column="1" />
+      <File FileName="LucySky/bundleconfig.json" Line="1" Column="1" />
+      <File FileName="LucySky/Startup.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.LucySky PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>
